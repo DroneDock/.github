@@ -4,19 +4,13 @@
 
 ![HANGAR-1](https://github.com/DroneDock/.github/assets/107824428/a65199ec-7862-45a8-b043-faa6115b1660)
 
-HANGAR-1 is a state-of-the-art vision-based tracking system that allows the platform to track the movement of the drone in real time.
+HANGAR-1 is a state-of-the-art vision-based tracking system that allows the platform to track the movement of the drone in real time. 
+HANGAR-1 boasts three-DOFs, with a 360 degree rotation, 20 cm extension and can tolerate up to 80 degrees of inclination.
+
+![VID-20240604-WA0006_1](https://github.com/DroneDock/.github/assets/107824428/8e47c2fa-bfc7-437b-ba94-880b00142e71)
 
 The repositories in this organisation are:
 * **platform-control**: The main repository containing the codes to control the platform.
 * **aruco-RaspberryPi**: This repository contains the code needed to run codes pertaining the ArUco marker, including calibration, detection and pose estimation for the Raspberry Pi controller.
 * **aruco-JetsonNano**: (Deprecated) This repository contains the code needed to run codes pertaining the ArUco marker, including calibration, detection and pose estimation for the Jetson Nano controller. *This is deprecated - the Jetson Nano is not used due to the lack of support of PWM pins.*
-<!--
-
-**Integration of a Drone with a Ground Rover for Navigation and Docking**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* **drone_sim_setup**: This repository contains the documentation related to setting up the drone simulation stack, including ArduPilot, ArduPilot SITL, Gazebo, Ubuntu and WSL.
