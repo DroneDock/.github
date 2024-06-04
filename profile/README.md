@@ -1,6 +1,6 @@
 ## GDP Group 49 2023/24 - Integration of Drone and Rover 👋
 
-### Integration of a Drone with a Ground Rover for Navigation and Docking**
+### Integration of a Drone with a Ground Rover for Navigation and Docking
 
 ![HANGAR-1](https://github.com/DroneDock/.github/assets/107824428/a65199ec-7862-45a8-b043-faa6115b1660)
 
