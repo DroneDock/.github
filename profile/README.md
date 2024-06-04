@@ -2,8 +2,9 @@
 
 ### Integration of a Drone with a Ground Rover for Navigation and Docking**
 
+![HANGAR-1](https://github.com/DroneDock/.github/assets/107824428/a65199ec-7862-45a8-b043-faa6115b1660)
 
-![HANGAR-1](https://github.com/DroneDock/.github/assets/107824428/fafbb6cc-cc6d-4d14-a74d-63adbc21c598)
+HANGAR-1 is a state-of-the-art vision-based tracking system that allows the platform to track the movement of the drone in real time.
 
 <!--
 
