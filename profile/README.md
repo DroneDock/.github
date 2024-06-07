@@ -17,4 +17,4 @@ The repositories in this organisation are:
 * **aruco-JetsonNano**: (Deprecated) This repository contains the code needed to run codes pertaining the ArUco marker, including calibration, detection and pose estimation for the Jetson Nano controller. *This is deprecated - the Jetson Nano is not used due to the lack of support of PWM pins.*
 * **drone_sim_setup**: This repository contains the documentation related to setting up the drone simulation stack, including ArduPilot, ArduPilot SITL, Gazebo, Ubuntu and WSL.
 * **drone_setup*: This repository contains a word document to calibrate the drone and the ArduPilot firmware.
-* **cad_files**: This repository contains all the CAD files needed to manufacture the docking platform.
+* **cad_files**: This repository contains all the CAD files needed to manufacture the docking platform, and a word document of how to assemble it.
